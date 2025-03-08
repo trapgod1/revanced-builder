@@ -10,7 +10,6 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 apkmirror-dpi = "120-640dpi"
 build-mode = "apk"
-arch = "both"
 cli-source = "inotia00/revanced-cli"
 patches-source = "inotia00/revanced-patches"
 
