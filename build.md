@@ -6,8 +6,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-builder](https://github.com/trapgod1/revanced-builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.19.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.19.0)  
+Patches: ReVanced/patches-5.19.1.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.19.1)  
 
 Skipped:  
-Patches: inotia00/patches-5.6.2.rvp    
+Patches: inotia00/patches-5.6.2.rvp      
