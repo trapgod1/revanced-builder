@@ -37,7 +37,8 @@ excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+# uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
 build-mode = "apk"
 version = "auto"
 arch = "both"
