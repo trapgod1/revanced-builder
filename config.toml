@@ -23,22 +23,45 @@ arch = "both"
 # version = "8.12.53"
 excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [YouTube-Extended]
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
+excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube'"
 build-mode = "apk"
 # version = "19.47.53"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube'"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
+
+[YouTube]
 build-mode = "apk"
+excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music'"
+included-patches = ""
 version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[Music]
+build-mode = "apk"
+excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music'"
 arch = "both"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+
+[GooglePhotos]
+build-mode = "both"
+arch = "both"
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
