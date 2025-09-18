@@ -69,3 +69,4 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 [Instagram]
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 # apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+arch = "both"
