@@ -8,7 +8,7 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-builder](https://github.com/trapgod1/revanced-builder)
   
-Patches: MorpheApp/patches-1.36.0.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.36.0)
+Patches: MorpheApp/patches-1.37.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.37.0)
 
 CLI: MorpheApp/morphe-desktop-1.12.0-all.jar    
