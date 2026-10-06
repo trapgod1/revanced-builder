@@ -1,5 +1,5 @@
-Music-Morphe (arm64-v8a): 9.15.51  
-Music-Morphe (arm-v7a): 9.15.51  
+Music-Morphe (arm64-v8a): 9.20.53  
+Music-Morphe (arm-v7a): 9.20.53  
 Reddit-Morphe: 2026.24.0  
 YouTube-Morphe: 21.16.256  
 
@@ -8,7 +8,7 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-builder](https://github.com/trapgod1/revanced-builder)
   
-Patches: MorpheApp/morphe-patches/patches-1.45.0.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.45.0)
+Patches: MorpheApp/morphe-patches/patches-1.46.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.46.0)
 
 CLI: MorpheApp/morphe-cli/morphe-desktop-1.18.1-all.jar    
